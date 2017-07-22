@@ -22,6 +22,7 @@
  */
 
 
+#include <stdio.h>
 #include <inttypes.h>
 #include <uv.h>
 
